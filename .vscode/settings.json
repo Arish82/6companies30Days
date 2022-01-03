@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.js": "javascriptreact",
+        "xstring": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "xhash": "cpp",
+        "utility": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "xtree": "cpp",
+        "set": "cpp",
+        "cstring": "cpp"
+    }
+}
