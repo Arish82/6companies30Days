@@ -11,6 +11,9 @@
         "string": "cpp",
         "xtree": "cpp",
         "set": "cpp",
-        "cstring": "cpp"
+        "cstring": "cpp",
+        "algorithm": "cpp",
+        "stack": "cpp",
+        "ostream": "cpp"
     }
 }
